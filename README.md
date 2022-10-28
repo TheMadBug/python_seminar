@@ -1,20 +1,20 @@
 # For Better Resources on learning all this stuff
 
 **Dataclass**
+[YouTube]https://www.youtube.com/watch?v=vBH6GRJ1REM
 James Murphy from mCoding, he has a great bland intensity to him
-https://www.youtube.com/watch?v=vBH6GRJ1REM
 
 **TypeHints**
-TechWithTim, gives a broad overview with a bit more context
 [YouTube](https://www.youtube.com/watch?v=QORvB-_mbZ0)
+TechWithTim, gives a broad overview with a bit more context
 
 **Operator Overloading**
-Note that underscore underscore is typically called “dunder”, I don’t know why
 [YouTube](https://www.youtube.com/watch?v=3ohzBxoFHAY)
+Note that underscore underscore is typically called “dunder”, I don’t know why
 
 **List Comprehension**
+[YouTube](https://www.youtube.com/watch?v=QORvB-_mbZ0)
 The production value of this cracks me up
-https://www.youtube.com/watch?v=QORvB-_mbZ0
 
 **Itertools Documention**
 [itertools — Functions creating iterators for efficient looping — Python 3.11.0 documentation](https://docs.python.org/3/library/itertools.html)
